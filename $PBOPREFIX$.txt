@@ -1,0 +1,5 @@
+//<'Ra1nsOverhaulPack.pbo' properties via Mikero's dos tools, dll version 8.35>
+product=dayz ugc;
+prefix=Ra1nsOverhaulPack;
+//PboType=Arma Addon;
+//</properties>
